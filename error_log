@@ -1,0 +1,59 @@
+[21-Nov-2024 21:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/index.php(9): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/about-us.php(5): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/index.php(9): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:17:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/about-us.php(5): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/index.php(9): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/index.php(9): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[21-Nov-2024 21:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/c4solution/public_html/includes/navbar.php:230
+Stack trace:
+#0 /home/c4solution/public_html/index.php(9): include()
+#1 {main}
+  thrown in /home/c4solution/public_html/includes/navbar.php on line 230
+[05-Dec-2024 03:43:01 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:01 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'ybo-sdfsdfbtd/src/Exception.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:18 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:18 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'ybo-sdfsdfbtd/src/Exception.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:22 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:22 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:43:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'ybo-sdfsdfbtd/src/Exception.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:46:48 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:46:48 UTC] PHP Warning:  require(ybo-sdfsdfbtd/src/Exception.php): Failed to open stream: No such file or directory in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
+[05-Dec-2024 03:46:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'ybo-sdfsdfbtd/src/Exception.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/c4solution/public_html/ybo-WQELC66AE6czc1.php on line 2
